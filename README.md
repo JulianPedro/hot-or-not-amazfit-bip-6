@@ -24,7 +24,7 @@ This is an app developed for the Amazfit Bip 6 that fetches temperature data fro
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 - [Zepp OS SDK](https://docs.zepp.com/)
 - JavaScript (Zepp OS API)
